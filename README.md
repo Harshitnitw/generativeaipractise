@@ -1,1 +1,1 @@
-# generativeaipractise
+# RAG project
